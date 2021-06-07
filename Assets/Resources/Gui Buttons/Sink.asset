@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b152092a6dffd46b843b80d57ff56f, type: 3}
+  m_Name: Sink
+  m_EditorClassIdentifier: 
+  Name: "\u0420\u0430\u043A\u043E\u0432\u0438\u043D\u0430"
+  Image: {fileID: 21300000, guid: 9e4f0386cb6e89e4fa5158fb77789577, type: 3}
+  Item: {fileID: 112321177318706032, guid: b6923f1db2c68414e8e623d2be93c217, type: 3}

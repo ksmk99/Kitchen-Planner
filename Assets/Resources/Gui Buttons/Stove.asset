@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27b152092a6dffd46b843b80d57ff56f, type: 3}
+  m_Name: Stove
+  m_EditorClassIdentifier: 
+  Name: "\u041F\u043B\u0438\u0442\u0430"
+  Image: {fileID: 21300000, guid: b93e2af7937461c4e979a68f0090c588, type: 3}
+  Item: {fileID: 5836200698564664678, guid: 812ce8fee7b9dd341b1e847e400db25d, type: 3}
